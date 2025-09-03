@@ -47,30 +47,26 @@ Compared price distributions before and after cleaning.
 
 Outlier removal significantly reduced unrealistic prices.
 
-🔹 Step E: Insights & Storytelling
+### 🔹 Step E: Insights & Storytelling
 
-Room Type & Pricing
+1. **Room Type & Pricing**
+   - Private rooms are most affordable → budget travelers.  
+   - Entire homes/apartments are more premium → families, groups.  
+   ![Room Type Pricing](images/room_type_price.png)
 
-Private rooms are most affordable → budget travelers.
+2. **Neighbourhood Trends**
+   - Central/touristy neighbourhoods have higher average prices.  
+   ![Neighbourhood Boxplot](images/neighbourhood_boxplot.png)
 
-Entire homes/apartments are more premium → families, groups.
+3. **Reviews & Ratings Influence**
+   - Higher review scores and more reviews correlate with higher prices.  
+   ![Reviews vs Price](images/reviews_price.png)
 
+4. **Effect of Cleaning**
+   - Before cleaning → heavy skew due to extreme luxury outliers.  
+   - After cleaning → smoother distribution, realistic price range.  
+   ![Before After Cleaning](images/before_after_price.png)
 
-Neighbourhood Trends
-
-Central/touristy neighbourhoods have higher average prices.
-
-
-Reviews & Ratings Influence
-
-Higher review scores and more reviews correlate with higher prices.
-
-
-Effect of Cleaning
-
-Before cleaning → heavy skew due to extreme luxury outliers.
-
-After cleaning → smoother distribution, realistic price range.
 
 
 🛠️ Tech Stack & Libraries
