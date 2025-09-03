@@ -56,16 +56,17 @@ Outlier removal significantly reduced unrealistic prices.
 
 2. **Neighbourhood Trends**
    - Central/touristy neighbourhoods have higher average prices.  
-   ![Neighbourhood Boxplot](images/neighbourhood_boxplot.png)
+   ![Neighbourhood Boxplot](https://github.com/KIRANRW9/Airbnb-EDA/blob/repo-exercise/neighbourhood_boxplot.png)
 
 3. **Reviews & Ratings Influence**
    - Higher review scores and more reviews correlate with higher prices.  
-   ![Reviews vs Price](images/reviews_price.png)
+   ![Reviews vs Price](https://github.com/KIRANRW9/Airbnb-EDA/blob/repo-exercise/reviews_price.png)
 
 4. **Effect of Cleaning**
    - Before cleaning → heavy skew due to extreme luxury outliers.  
    - After cleaning → smoother distribution, realistic price range.  
-   ![Before After Cleaning](images/before_after_price.png)
+   ![Before After Cleaning](https://github.com/KIRANRW9/Airbnb-EDA/blob/repo-exercise/before_after_price.png)
+
 
 
 
