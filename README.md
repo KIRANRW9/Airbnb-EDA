@@ -52,7 +52,7 @@ Outlier removal significantly reduced unrealistic prices.
 1. **Room Type & Pricing**
    - Private rooms are most affordable → budget travelers.  
    - Entire homes/apartments are more premium → families, groups.  
-   ![Room Type Pricing](images/room_type_price.png)
+   ![Room Type Pricing](https://github.com/KIRANRW9/Airbnb-EDA/blob/repo-exercise/room_type_price.png)
 
 2. **Neighbourhood Trends**
    - Central/touristy neighbourhoods have higher average prices.  
