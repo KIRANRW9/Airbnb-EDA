@@ -1,5 +1,7 @@
 🏡 Airbnb Data Cleaning & Exploratory Data Analysis (EDA)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KIRANRW9/Airbnb-EDA/blob/master/Airbnb.ipynb)
+
 This project focuses on data cleaning and exploratory data analysis (EDA) of Airbnb listings.
 The goal is to showcase practical data wrangling, visualization, and storytelling skills that are essential for Data Analyst roles.
 
@@ -101,15 +103,13 @@ git clone https://github.com/KIRANRW9/Airbnb-EDA.git
 
 
 Open the Jupyter/Colab notebook:
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KIRANRW9/Airbnb-EDA/blob/master/Airbnb.ipynb)
+
 
 
 Airbnb.ipynb
 
-
-Run all cells to reproduce cleaning and analysis.
-
-👉 Or open directly in Google Colab.
 
 🎯 Key Learnings
 
