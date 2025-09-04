@@ -67,7 +67,20 @@ Outlier removal significantly reduced unrealistic prices.
    - After cleaning → smoother distribution, realistic price range.  
    ![Before After Cleaning](https://github.com/KIRANRW9/Airbnb-EDA/blob/repo-exercise/before_after_price.png)
 
+##  Dataset
+The full dataset (98 MB) is available on Kaggle:
+[Air-bnb dataset](https://www.kaggle.com/datasets/sankalp102/air-bnb)
 
+## 📂 Repository Structure
+
+```
+Airbnb-EDA/
+┣ 📓 notebooks/ # Jupyter Notebook
+┣ 🖼️ images/ # Saved visualization PNGs
+┣ 📊 data/ # dataset
+┣ 📄 README.md
+┗ 📦 requirements.txt
+```
 
 
 🛠️ Tech Stack & Libraries
