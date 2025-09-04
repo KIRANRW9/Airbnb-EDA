@@ -101,7 +101,7 @@ git clone https://github.com/KIRANRW9/Airbnb-EDA.git
 
 
 Open the Jupyter/Colab notebook:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KIRANRW9/Airbnb-EDA/blob/main/Airbnb.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KIRANRW9/Airbnb-EDA/blob/master/Airbnb.ipynb)
 
 
 Airbnb.ipynb
