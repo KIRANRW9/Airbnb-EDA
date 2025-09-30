@@ -173,7 +173,7 @@ This analysis methodology can be applied to:
 
 **Kiran Rangu**  
 🎓 AI & Data Science Graduate 2025  
-📍 Mumbai, India | Open to Remote/Hybrid
+📍 India 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiranrangu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KIRANRW9)
